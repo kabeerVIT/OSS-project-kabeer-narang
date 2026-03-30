@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Mitul Khanna
+# Author: Kabeer Narang
 
 echo "Answer three questions to generate your manifesto."
 echo ""
